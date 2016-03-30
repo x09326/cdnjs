@@ -23,7 +23,7 @@
     "target": "git://github.com/madebymany/sir-trevor-js.git",
     "basePath": "build",
     "files": [
-      "sir-trevor*"
+      "**/*"
     ]
   }
 }
