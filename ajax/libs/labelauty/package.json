@@ -11,7 +11,7 @@
     "target": "git://github.com/fntneves/jquery-labelauty.git",
     "fileMap": [
       {
-        "basePath": "",
+        "basePath": "source",
         "files": [
           "jquery-labelauty*",
           "images/**/*"
